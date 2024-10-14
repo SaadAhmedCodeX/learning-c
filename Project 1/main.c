@@ -12,9 +12,6 @@ int main()
     int no_of_guesses = 0;
     int guessed;
 
-    // Print the random number
-    // printf("Random Number: %d\n", randomNumber);
-
     do
     {
         printf("Guess the number: ");
