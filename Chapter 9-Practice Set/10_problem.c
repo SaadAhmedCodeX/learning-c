@@ -42,7 +42,7 @@ int compare(DT d1, DT d2)
 }
 int main()
 {
-    DT d1 = {10, 4, 2008};
+    DT d1 = {13, 4, 2008};
     DT d2 = {11, 4, 2008};
     printf("%d", compare(d1, d2));
     // 1 = d1 is in future
